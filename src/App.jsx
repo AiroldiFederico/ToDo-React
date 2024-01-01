@@ -1,10 +1,15 @@
 import { useState } from "react";
 import "./style/App.css";
 
+//components:
+import MainComp from "./components/MainComp";
+
 function App() {
   return (
     <>
-      <p className="text-3xl font-bold">Ciao Federico!</p>
+      <div className=" w-screen h-screen justify-center flex items-center">
+        <MainComp></MainComp>
+      </div>
     </>
   );
 }
