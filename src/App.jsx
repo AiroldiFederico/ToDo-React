@@ -7,7 +7,7 @@ import MainComp from "./components/MainComp";
 function App() {
   return (
     <>
-      <div className=" w-screen h-screen justify-center flex items-center">
+      <div className=" w-screen h-screen justify-center flex items-center bg-slate-100">
         <MainComp></MainComp>
       </div>
     </>
