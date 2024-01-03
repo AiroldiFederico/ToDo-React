@@ -1,4 +1,4 @@
-# TEMPLATE REACT
+# TODO LIST w/React
 # Progetto di Federico Airoldi
 
 Questo repository contiene un progetto di Federico Airoldi. Lo scopo del progetto è quello di fornire un ambiente pratico per esplorare e apprendere varie tecnologie e librerie nel campo dello sviluppo web.
@@ -54,6 +54,7 @@ Elenco dei principali pacchetti installati in questo progetto:
 - Axios: Un client HTTP basato su promesse per il browser e node.js.
 - postcss
 - autoprefixer
+- Fontawesome
 
 ## Versione
 

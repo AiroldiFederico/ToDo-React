@@ -8,7 +8,7 @@ export default function TaskComp({ children, id, check, onToggle, onRemove }) {
       className={`flex justify-between items-center ${
         !check
           ? "rounded drop-shadow h-10 bg-white text-slate-800"
-          : "rounded shadow-inner h-10 bg-gray-100 text-slate-400"
+          : "rounded shadow-inner h-10 bg-gray-100 text-slate-400 line-through"
       } text-left font-semibold leading-9 indent-3 mb-1 cursor-pointer`}
       id={id}
     >
